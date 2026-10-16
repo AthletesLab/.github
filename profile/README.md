@@ -2,22 +2,19 @@
 
 AthletesLab is a nutrition product designed to help people make better everyday food decisions.
 
-## How our projects fit together
+## AthletesLab project map
 
 ```text
 AthletesLab on GitHub
-|
-+-- AthletesLab.App
-|   +-- The product: mobile app and the server that supports it
-|
-+-- AthletesLab.WebPage
-|   +-- The AthletesLab website
-|
-+-- Marketing-Mario
-    +-- Marketing materials and content
++-- AthletesLab.App          GitHub: AthletesLab/AthletesLab.App
++-- AthletesLab.WebPage      GitHub: AthletesLab/AthletesLab.WebPage
++-- Business                 Local project; no GitHub repository connected
++-- Analytics                Local project; no GitHub repository connected
++-- off-import-worker        GitHub: mariotoorrees/off-import-worker
++-- Marketing-Mario          Local folder: Marketing (name exception)
 ```
 
-Each project has its own repository: a project folder with its own files and history. Access to a repository depends on its privacy and the person's GitHub permissions.
+The project names above match the local project folder names, except for Marketing, which appears here as `Marketing-Mario`. The webpage's additional local folders are worktrees of the same repository, not separate projects. `Business` and `Analytics` are currently local-only; `off-import-worker` is in Mario's personal GitHub account rather than the AthletesLab organization. Repository access depends on privacy and GitHub permissions.
 
 ## How work moves between people
 
